@@ -8,6 +8,7 @@ Moi non plus !!
 
 #ma modif'
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 test
@@ -17,3 +18,7 @@ Quelque chose
 =======
 Quelque chose
 >>>>>>> 207c6978f4a17166dbe6a6ddc3755e65f2d3fc60
+=======
+
+Quelque chose
+>>>>>>> b55279de7df2a7200739919e30c4e7a72624836b
