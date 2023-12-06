@@ -28,12 +28,13 @@ precedent=courant;
 position=position+1;
 }	
 
+
+
+}
 else {
 nb = 2;
 }	
-
-}
-System.out.println("les premiers nombres de la suite de fiboncci sont \n"+resultat);
+System.out.println("les "+ nb +" premiers nombre de la suite de fiboncci sont \n"+resultat);
 
 sc.close();
 	}
